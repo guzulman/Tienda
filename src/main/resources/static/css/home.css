@@ -1,0 +1,123 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jan 26, 2023, 6:52:02 PM
+    Author     : jcga5
+*/
+
+body{
+    font-family: verdana;
+}
+img{
+
+    width:150px;
+    margin:20px 60px;    
+}
+
+.divimg{
+    margin-right: 20px;
+    background-color: blue;
+}
+
+.inline{
+    
+    display: inline-block;
+}
+
+.divmenu{
+    margin-left: 60%;
+    position: relative;
+    top: -80px;
+}
+.secfirst{
+    
+}
+
+a:link{
+    color: #3032bc;
+}
+
+a:hover{
+    color: #7c7979;
+}
+
+a:visited {
+    color:#f88ceb;
+}
+
+hr{
+    width: 90%;
+    border: 2px solid;
+}
+
+nav{
+    
+    width: 400px;
+    height:100px;
+    position: relative;
+    
+    
+    
+}
+
+li{
+    margin: 20px 30px;
+    font-size: 20px;
+  
+  
+}
+
+.imggt7{
+    
+    width: 853px;
+    height: 480px;
+    border-style: groove ;
+    border-width: 5px;
+    
+}
+
+h1{
+    font-size: 35px;
+    
+}
+.hrh1{
+    width: 50px;
+    border: groove 1px;
+}
+
+p{
+    font-size: 15px;
+    line-height: 1.5em;
+}
+
+.sectext{
+    width:40%;
+    
+    margin-left: 50px;
+    height: 500px;
+    position: relative;
+    text-align: center;
+    top: 0px;
+    
+}
+
+.secimg{
+    width: auto;
+    height: auto;
+    top: 25px;
+    margin-left: 90px;
+    position: relative;
+    
+}
+
+
+
+
+
+
+
+
+
+
