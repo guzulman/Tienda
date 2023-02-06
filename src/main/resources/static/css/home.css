@@ -13,12 +13,13 @@ body{
 img{
 
     width:150px;
-    margin:20px 60px;    
+    margin:20px 60px;   
+    
 }
 
 .divimg{
     margin-right: 20px;
-    background-color: blue;
+/*    background-color: blue;*/
 }
 
 .inline{
@@ -30,6 +31,7 @@ img{
     margin-left: 60%;
     position: relative;
     top: -80px;
+    /*background-color: blue;*/
 }
 .secfirst{
     
@@ -112,7 +114,11 @@ p{
     
 }
 
-
+a{
+    
+    decoration: none;
+    
+}
 
 
 
